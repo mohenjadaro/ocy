@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: The OCY Company
 description: 'Organize, Clean and Yard Work'
-site.github.is_project_page: false
+github:
+  is_project_page: false
